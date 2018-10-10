@@ -1,5 +1,6 @@
 Title: Chasing the Rabbit: How Market Leaders Outdistance the Competition and How Great Companies Can Catch Up and Win
 Author: Steven Spear
+Date: 10/2018
 Read on: Kindle
 Rating: 8
 
