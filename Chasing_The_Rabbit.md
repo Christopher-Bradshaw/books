@@ -3,6 +3,10 @@ Author: Steven Spear
 Date: 10/2018
 Read on: Kindle
 Rating: 8
+Read Because: HN Books - suggested a book on Toyota, did some googling, this appeared to be the best book on Toyota.
+
+Summary:
+Excellent book on improving processes in businesses, also applicable to improving processes individually. Kaizen - continuous improvement.
 
 
 Learnings:
@@ -23,3 +27,5 @@ Capability 4 is also interesting. There is an example given where multiple group
 The book also advocates lightweight testing rather than just theorizing. "Bolt rather than weld, tape rather than bolt, hold rather than tape" is Toyota's saying to advocate doing the simplest test that will answer the question. When testing it is important to not just test e.g. "Does the material hold up to the stresses" but to test your best current knowledge "The material should hold up to X impact". Any result other than this shows a gap in your knowledge that can be filled whereas the former teaches you much less.
 
 Another potential problem is having different groups manage subproblems and no-one in charge of the whole. E.g. no one doctor knows all about your care, in a advertising company the conversation is bumped from customer/sales/design/accounts/etc with no-one ever being quite sure exactly where in the pipeline anything is. While there needs to be specialization there needs to be a clear flow of information, an understanding of who needs to do what at each step and when that step is complete.
+
+
