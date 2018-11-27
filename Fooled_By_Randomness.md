@@ -1,8 +1,13 @@
 Title: Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets
+
 Author: Nassim Taleb
+
 Date: 11/2018
+
 Read on: Kindle
+
 Rating:
+
 Read Because: Known Author - Read Antifragile and thought it was important enough to go back to the beginning
 
 Learnings:
@@ -27,8 +32,6 @@ Part II (and general Biases)
 * Loss aversion - losing X hurts more than gaining X.
 
 
-
 Quotes:
-* "A mistake is not something to be detemrined after the fact, but in the light of the imformation until that point."
+* "A mistake is not something to be determined after the fact, but in the light of the imformation until that point."
 * What a journalist should say: "Today the market with up, but this information is not too relevant as it emnates mostly from noise"
-
